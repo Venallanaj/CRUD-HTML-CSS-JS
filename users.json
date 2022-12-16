@@ -1,0 +1,6 @@
+{
+    "users":[
+      {"name":"John", "role":"teacher"},
+      {"name":"Anna", "role":"student"}
+    ]
+    }
